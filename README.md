@@ -1,5 +1,12 @@
 # O trabalho de conclusão de curso (TCC) do Técnico em Informática do colégio Unitau 
 
+
+<h3 align="center"> 
+  Este projeto foi o trabalho de conclusão do meu curso técnico. Feito em 2015. E consiste em um sistema para gerenciar o atendimento de uma clínica odontológica.
+</h3>
+
+___
+
 O usuário poderá navegar pelo sistema, na de navegação dos cadastros é possível navegar pelos cadastros no primeiro grupo de botões, e inserir, salvar ou apagar registros no segundo grupo. 
 O controle de acesso serve para restringir o acesso ao sistema clique na aba configuração acesso, e perfil, as opções que estão selecionas indicam que este perfil possui acesso as essas funções, e os itens que não estão selecionados indicam que este perfil não pode acessar essa função.
 
