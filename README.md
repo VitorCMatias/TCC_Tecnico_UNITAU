@@ -5,7 +5,7 @@ O controle de acesso serve para restringir o acesso ao sistema clique na aba con
 
 
 ## Login
-<img align=center src="https://github.com/VitorCMatias/TCC_Tecnico_UNITAU/blob/imagens/Imagems/login.jpg" alt="Login">
+<img align="center" src="https://github.com/VitorCMatias/TCC_Tecnico_UNITAU/blob/imagens/Imagems/login.jpg" alt="Login">
 
 ## Navegação
 É possível navegar pelos cadastros no primeiro grupo de botões, e inserir, salvar ou apagar registros no segundo grupo.
@@ -13,7 +13,7 @@ O controle de acesso serve para restringir o acesso ao sistema clique na aba con
 ### Abas
 Para facilitar a utilização é possível tanto cadastrar quanto pesquisar algo no sistema na mesma forma basta navegar pelas abas.
 
-<img align=center src="https://github.com/VitorCMatias/TCC_Tecnico_UNITAU/blob/imagens/Imagems/cadastro.jpg" alt="Abas">	
+<img align="center" src="https://github.com/VitorCMatias/TCC_Tecnico_UNITAU/blob/imagens/Imagems/cadastro.jpg" alt="Abas">	
 
 ### Pesquisa
 Para efetuar uma pesquisa selecione o parâmetro desejado, digite os dados e clique no botão pesquisar.
@@ -23,4 +23,4 @@ Para efetuar uma pesquisa selecione o parâmetro desejado, digite os dados e cli
 É possivel restringir o acesso ao sistema, as opções que estão selecionas indicam que este perfil possui acesso as essas funções, e os itens que não estão selecionados indicam que este perfil não pode acessar essa função.
 
 
-<img align=center src="https://github.com/VitorCMatias/TCC_Tecnico_UNITAU/blob/imagens/Imagems/Controle%20de%20Acesso.jpg" alt="tela do controle de acesso">	
+<img align="center" src="https://github.com/VitorCMatias/TCC_Tecnico_UNITAU/blob/imagens/Imagems/Controle%20de%20Acesso.jpg" alt="tela do controle de acesso">	
